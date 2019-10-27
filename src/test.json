@@ -1,0 +1,9 @@
+{
+    "name": "daryl",
+    "favoriteNumber": 3,
+    "isProgrammer": true,
+    "hobbies": ["music", "arts"],
+    "friends": [{
+        "name": "igor"
+    }]
+}
